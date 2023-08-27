@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvd_proyecto_2_p=self.webpackChunkvd_proyecto_2_p||[]).push([[807],{4392:o=>{o.exports=JSON.parse('{"permalink":"/vdProyecto2P/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
