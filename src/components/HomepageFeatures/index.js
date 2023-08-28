@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Herramienta',
-    Svg: require('@site/static/img/godot.svg').default,
+    title: 'Godot Engine',
+    Svg: require('@site/static/img/logoG.svg').default,
     link: (
       <></>
     ),

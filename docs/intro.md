@@ -7,8 +7,8 @@ Desarrollo de **videojuego** 	:game_die:
 
 
 ### CaveBot Rescue :mag_right:
-  #Historia de CaveBot Rescue 
 
+ ![test](Ideacion/img/inicio.jpg)
 
 
 ## Integrantes: 
